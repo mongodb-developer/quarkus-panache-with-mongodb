@@ -154,7 +154,7 @@ curl -X GET "http://localhost:8080/books/aggregate/genre-count" | jq
 ## Requirements
 
 - MongoDB instance running locally or remotely.
-- Java 11 or higher.
+- Java 21 or higher.
 - Maven or Gradle to build the project.
 
 ## Running the Application
